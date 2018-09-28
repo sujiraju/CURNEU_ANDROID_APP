@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "722360556817",
+    "firebase_url": "https://ticket-e16d9.firebaseio.com",
+    "project_id": "ticket-e16d9",
+    "storage_bucket": "ticket-e16d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360556817:android:5e5e87036b6e7892",
+        "android_client_info": {
+          "package_name": "com.example.priyankamoorthy.tickettask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722360556817-kjkr8qui4bkjcdsuhf44ge9umrb6afd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJH6WD-jggIYI9lqiBfcdyjclqDhFtRI"
+        },
+        {
+          "current_key": "AIzaSyCTJH6WD-jggIYI9lqiBfcdyjclqDhFtRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
